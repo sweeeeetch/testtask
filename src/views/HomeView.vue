@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import AccountForm from "@/components/AccountForm.vue";
+</script>
 
 <template>
-  <div></div>
+  <AccountForm />
 </template>
 
 <style scoped lang="scss"></style>
